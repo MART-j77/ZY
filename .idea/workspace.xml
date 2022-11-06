@@ -4,11 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfbf1cb2-49cf-4f63-a627-1a138fd3af4a" name="变更" comment="1" />
+    <list default="true" id="cfbf1cb2-49cf-4f63-a627-1a138fd3af4a" name="变更" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/简单工厂模式几何图形/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/女娲造人/Man.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/简单工厂模式女娲造人/Man.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/女娲造人/Nvwa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/简单工厂模式女娲造人/Nvwa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/女娲造人/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/简单工厂模式女娲造人/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/女娲造人/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/简单工厂模式女娲造人/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/女娲造人/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/简单工厂模式女娲造人/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/女娲造人/Woman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/简单工厂模式女娲造人/Woman.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,31 +40,88 @@
     <option name="abbreviatePackageNames" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\daima\idea\ZY\src\main\java" />
     </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="数据库性能" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="女娲造人.src.main.java.Test" />
+  <component name="RunManager" selected="应用程序.原型模式数据处理软件.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="抽象工厂模式海尔工厂.Client" />
       <module name="ZY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="女娲造人.src.main.java.*" />
+          <option name="PATTERN" value="抽象工厂模式海尔工厂.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="建造者模式电脑组装工厂.Test" />
+      <module name="ZY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="建造者模式电脑组装工厂.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBuilderPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="建造者模式视频播放软件.TestBuilderPattern" />
+      <module name="ZY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="建造者模式视频播放软件.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="电脑组装工厂.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="电脑组装工厂.Client" />
+      <module name="ZY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="建造者模式电脑组装工厂.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="原型模式数据处理软件.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="原型模式数据处理软件.Client" />
+      <module name="ZY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="原型模式数据处理软件.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,7 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.原型模式数据处理软件.Client" />
+        <item itemvalue="应用程序.TestBuilderPattern" />
         <item itemvalue="应用程序.Test" />
+        <item itemvalue="应用程序.电脑组装工厂.Client" />
+        <item itemvalue="应用程序.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -70,7 +149,7 @@
       <updated>1667357176336</updated>
       <workItem from="1667357178726" duration="2126000" />
       <workItem from="1667651506256" duration="171000" />
-      <workItem from="1667707053131" duration="406000" />
+      <workItem from="1667707053131" duration="10338000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1667707132676</created>
@@ -79,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667707132676</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1667707464980</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667707464980</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
